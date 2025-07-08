@@ -14,3 +14,25 @@ I'm currently expanding my skillset into the world of cybersecurity; a field tha
 <p align="center">
   <img width="300" src="https://github.com/user-attachments/assets/0e7c3bfa-d166-48fb-96d4-f6edaae1d1c2" alt="Material Bread logo">
 </p>
+
+# More than code — a lifelong pursuit of creation, curiosity, and control.
+<details>
+  <summary>Moamen's Journey</summary>
+  
+From the streets of Alexandria, Moamen grew up with a passion for Technology.
+
+
+From the young age of six, Moamen explore computers and always found himself fascinated by complicated, yet magical looking machine.
+
+As Moamen grew up, he started going deeper in the parts and architecture of a computer and putting together his own computers. But with curiosity that he had, Moamen wanted to know more. He wanted to know more about how systems worked, how the internet breathed, and how code could create something out of nothing. That spark never faded.
+
+Growing older to the start of my teenage years, I found myself diving deeper and attending development courses where I was often the youngest in the room. While others were impressed by my curiosity, and skills for my age, I saw it as just the beginning. I knew this wasn't about being ahead; it was about staying obsessed. I had a thing for this field, it was talent. And talent is an alternative word for obsession. It wasn't in my genes, I was simply fascinated.
+
+Now, I build real-world full-stack applications and platforms that aid the community and solve problems. Each project is a baby step towards a bigger goal and wider vision of gaining a grip on technology and crafting his own presence in this alternate universe.
+
+Moamen is focused on Full-Stack Web Development but with his amazing time management skills he is slowly but surely getting into a field that has long fascinated him. From being a white hat hacker that helps organizations and detects flaws to being a full cybersecurity system engineer was a power Moamen had always hoped to attain. that excites me. It's not just about writing code that works; it's about building systems that last, and systems that are safe.
+
+With roots in Mechatronics and Robotics, and branches extending into Web Development and Cybersecurity, I’m not just chasing careers. I’m building my own ecosystem — a world I can both create and control.
+
+If you’re looking to work with someone who treats this industry as more than a job, someone who sees tech as a craft, a cause, and a calling; Then I’d love to connect.
+</details>
