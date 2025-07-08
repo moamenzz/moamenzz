@@ -36,3 +36,5 @@ With roots in Mechatronics and Robotics, and branches extending into Web Develop
 
 If you’re looking to work with someone who treats this industry as more than a job, someone who sees tech as a craft, a cause, and a calling; Then I’d love to connect.
 </details>
+
+![snake gif](https://github.com/moamenzz/moamenzz/blob/output/github-snake-dark.svg)
