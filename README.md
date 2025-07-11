@@ -21,12 +21,11 @@ I'm currently expanding my skillset into the world of cybersecurity; a field tha
   
 From the streets of Alexandria, Moamen grew up with a passion for Technology.
 
+From the young age of six, Moamen started exploring computers and had always found himself fascinated by these sophisticated, magical machines.
 
-From the young age of six, Moamen explore computers and always found himself fascinated by complicated, yet magical looking machine.
+As Moamen grew up, he started digging deeper into the parts and architecture of a computer and putting together his own computers. But with the curiosity that he had, Moamen wanted to know more. He wanted to know more about how systems worked, how the internet breathed, and how code could create something out of nothing. That spark never faded.
 
-As Moamen grew up, he started going deeper in the parts and architecture of a computer and putting together his own computers. But with curiosity that he had, Moamen wanted to know more. He wanted to know more about how systems worked, how the internet breathed, and how code could create something out of nothing. That spark never faded.
-
-Growing older to the start of my teenage years, I found myself diving deeper and attending development courses where I was often the youngest in the room. While others were impressed by my curiosity, and skills for my age, I saw it as just the beginning. I knew this wasn't about being ahead; it was about staying obsessed. I had a thing for this field, it was talent. And talent is an alternative word for obsession. It wasn't in my genes, I was simply fascinated.
+Growing older to the start of my teenage years, I found myself diving deeper and attending development courses where I was often the youngest in the room. While others were impressed by my curiosity and skills for my age, I saw it as just the beginning. I knew this wasn't about being ahead; it was about staying obsessed. I had a thing for this field; it was talent. And talent is an alternative word for obsession. It wasn't in my genes, I was simply fascinated.
 
 Now, I build real-world full-stack applications and platforms that aid the community and solve problems. Each project is a baby step towards a bigger goal and wider vision of gaining a grip on technology and crafting his own presence in this alternate universe.
 
