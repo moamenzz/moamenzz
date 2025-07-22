@@ -2,11 +2,19 @@
 
 **`Digital Craftsman (Full-Stack Web Developer)`**
 
-I’m a Full-Stack Web Developer based in Alexandria, Egypt, driven by a passion for building full-stack web applications that are clean-coded, scalable, and performant. I don’t just write code; I craft architectural and technical solutions. I specialize in the MERN and Next.js tech stacks and have built several projects using them. Every project I built was a chapter in my learning journey filled with hands-on problem-solving, technical lessons, and back-end architectural experience.
+I’m Moamen Muhammed, a Full-Stack Web Developer based in Alexandria, Egypt.
 
-I engineer full-stack projects from just ideas and sketches to full deployment. I shape digital experiences while paying close attention to clean architecture and maintainable code, blending functionality with design.
+I specialize in developing high-performance web applications using the MERN stack and Next.js, with a focus on clean architecture, scalable systems, and maintainable code. My experience spans the complete development lifecycle—from initial concept and system design to deployment and optimization.
 
-I'm currently expanding my skillset into the world of cybersecurity, a field that perfectly complements my interest in building secure, robust, and complete systems while being able to recognize flaws and vulnerabilities. My goal is to leave my mark in this industry by engineering systems that not only work but work well and are built to last.
+Key Projects & Expertise:
+
+- Built production-ready clones of major platforms (Spotify, Udemy, Pinterest, X/Twitter)
+- Expertise in scalable backend architecture and database design
+- Strong foundation in both front-end user experience and server-side optimization
+
+Currently expanding into cybersecurity to enhance my ability to build secure, resilient systems. I'm passionate about creating digital solutions that don't just work—they're built to scale, perform, and endure.
+
+Open to opportunities in full-stack development and emerging roles that bridge development with security.
 
 #
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
