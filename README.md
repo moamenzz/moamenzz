@@ -27,21 +27,11 @@ Open to opportunities in full-stack development and emerging roles that bridge d
 <details>
   <summary>Moamen's Journey</summary>
   
-From the streets of Alexandria, Moamen grew up with a passion for Technology.
-
-From the young age of six, Moamen started exploring computers and had always found himself fascinated by these sophisticated, magical machines.
-
-As Moamen grew up, he started digging deeper into the parts and architecture of a computer and putting together his own computers. But with the curiosity that he had, Moamen wanted to know more. He wanted to know more about how systems worked, how the internet breathed, and how code could create something out of nothing. That spark never faded.
-
-Growing older to the start of my teenage years, I found myself diving deeper and attending development courses where I was often the youngest in the room. While others were impressed by my curiosity and skills for my age, I saw it as just the beginning. I knew this wasn't about being ahead; it was about staying obsessed. I had a thing for this field; it was talent. And talent is an alternative word for obsession. It wasn't in my genes, I was simply fascinated.
-
-Now, I build real-world full-stack applications and platforms that aid the community and solve problems. Each project is a baby step towards a bigger goal and wider vision of gaining a grip on technology and crafting his own presence in this alternate universe.
-
-Moamen is focused on Full-Stack Web Development but with his amazing time management skills he is slowly but surely getting into a field that has long fascinated him. From being a white hat hacker that helps organizations and detects flaws to being a full cybersecurity system engineer was a power Moamen had always hoped to attain. that excites me. It's not just about writing code that works; it's about building systems that last, and systems that are safe.
-
-With roots in Mechatronics and Robotics, and branches extending into Web Development and Cybersecurity, I’m not just chasing careers. I’m building my own ecosystem — a world I can both create and control.
-
-If you’re looking to work with someone who treats this industry as more than a job, someone who sees tech as a craft, a cause, and a calling; Then I’d love to connect.
+Technology chose me before I chose it. At six years old, I was that kid taking apart computers in Alexandria, fascinated by how these complex machines actually worked. What started as childhood curiosity evolved into something deeper—I wasn't just interested in using technology, I needed to understand it.
+By my teens, I was the youngest person in development courses, driven by an obsession to know how systems communicate, how the internet functions, and how code transforms ideas into reality. While others saw talent, I knew it was simply relentless curiosity.
+That foundation in hardware naturally led me to software. Today, I build full-stack applications that solve real problems, but each project serves a larger vision: mastering technology from multiple angles. My background in Mechatronics and Robotics taught me how systems work physically, while web development showed me how they work digitally.
+Now I'm expanding into cybersecurity—not as a career pivot, but as the next logical step. Building secure systems requires understanding both how to create and how to break, how to develop and how to defend.
+I don't just write code that works; I architect systems that last, scale, and stay secure. If you're looking for someone who treats technology as craft, not just career, let's connect.
 </details>
 
 ![snake gif](https://github.com/moamenzz/moamenzz/blob/output/github-snake-dark.svg)
